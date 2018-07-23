@@ -41,14 +41,3 @@
 .guilds-wrapper .guild-separator:after {display:none}
 .private-channels .channel .channel-name {opacity:1}
 .nameDefaultText-24KCy5, .nameDefaultVoice-3WUH7s, .nameLockedText-3pqQcL, .nameLockedVoice-26MhB1 {color: #ffffff;}
-
-.guilds-wrapper .guilds .friends-icon:after {
-	display:block;
-	width:40px;
-	height:40px;
-	content:'';
-	background-image: url(https://media0.giphy.com/media/62U9Iw4Kmvgl2/giphy.gif) !important;
-	background-size:110%;
-	background-repeat:no-repeat;
-	background-position:top center;
-}
