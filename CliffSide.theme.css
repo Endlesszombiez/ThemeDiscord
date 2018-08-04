@@ -51,6 +51,7 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: opt
 /* Chat box */
 .theme-dark .inner-zqa7da {background-color: hsla(0, 0%, 0%, 0);} 
 /* Guilds */
+.theme-dark .guilds-1q_RqH .homeIcon-1FoKUJ g{display:none}
 .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH svg.homeIcon-1FoKUJ{background: url(https://rawgit.com/Endlesszombiez/ThemeDiscord/master/Icons/KroosinIcon.svg) no-repeat center/cover}
 .theme-dark .guildSeparator-1X4GQ1:after{display:none}
 .theme-dark .friendsOnline-_wi_fM, .theme-light .friendsOnline-_wi_fM {color:#fff}
