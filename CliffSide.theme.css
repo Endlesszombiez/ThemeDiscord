@@ -41,7 +41,7 @@
 input{background: #f6f6f6}
 body,span:not(.spinner-item){-webkit-font-smoothing:optimizeLegibility !important;-webkit-backface-visibility:hidden;}
 body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: optimizeLegibility !important; font-smoothing: antialiased !important}
-.theme-dark ::selection {background: #000;color:rgba(255, 50, 50, .2)}
+.theme-dark ::selection {background: #000;color:rgba(50, 50, 50, .2)}
 .theme-dark ::-webkit-input-placeholder {color: rgba(255, 255, 255, 0.8) !important}
 
 /* Chat Area */
