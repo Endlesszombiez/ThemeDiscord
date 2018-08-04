@@ -46,8 +46,9 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: opt
 
 /* Chat Area */
 /* User Name */
-.username-_4ZSMR, .usernameWrapper-1S-G5O .username-_4ZSMR {font-weight: 400;background:rgba(0, 0, 0, 0.3)} 
+.headerCozyMeta-rdohGq .usernameWrapper-1S-G5O .username-_4ZSMR {font-weight: 400;background:rgba(0, 0, 0, 0)} 
 .theme-dark .timestampCozy-2hLAPV {color: #fff}
+
 /* Chat box */
 .theme-dark .inner-zqa7da {background-color: hsla(0, 0%, 0%, 0);} 
 /* Guilds */
