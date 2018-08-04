@@ -22,9 +22,10 @@
 .theme-dark .chat-3bRxxu .content-yTz4x3, .theme-dark .members-1998pB, .theme-dark .title-3qD0b-, .theme-dark .scroller-2v3d_F, 
 .theme-dark .header-2o-2hj, .theme-dark .container-2Thooq,.theme-dark .messagesWrapper-3lZDfY  {background: var(--trans) !important;background-color:var(--trans) !important}
 
-
-.markup-2BOw-j:not(code) {font-size: var(--font-size)!important;}  /* Changes font size of user text, not including code. */
-.theme-dark .containerCozy-jafyvG .comment .markup-2BOw-j {color: var(--text)} /* Text colour */
+/* Changes font size of user text, not including code. */
+.markup-2BOw-j:not(code) {font-size: var(--font-size)!important;} 
+/* Text colour */
+.theme-dark .containerCozy-jafyvG .comment .markup-2BOw-j {color: var(--text)} 
 
 .theme-dark .iconBadge-2dji3k {border-color: #fff}
 .theme-dark .iconBadge-2dji3k:hover {border-color: #eee}
@@ -44,10 +45,13 @@ body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: opt
 .theme-dark ::-webkit-input-placeholder {color: rgba(255, 255, 255, 0.8) !important}
 
 /* Chat Area */
-.username-_4ZSMR, .usernameWrapper-1S-G5O .username-_4ZSMR {font-weight: 600;background:rgba(0, 0, 0, 0.3);border-radius:10%} /* User Name */
+/* User Name */
+.username-_4ZSMR, .usernameWrapper-1S-G5O .username-_4ZSMR {font-weight: 600;background:rgba(0, 0, 0, 0.3);border-radius:10%} 
 .theme-dark .timestampCozy-2hLAPV {color: #fff}
-.theme-dark .inner-zqa7da {background-color: hsla(0, 0%, 0%, 0.6);box-shadow: 0 0 3px 1px hsl(284, 100%, 50%) } /* Chat box */
+/* Chat box */
+.theme-dark .inner-zqa7da {background-color: hsla(0, 0%, 0%, 0.6);box-shadow: 0 0 3px 1px hsl(284, 100%, 50%) } 
 /* Guilds */
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH svg.homeIcon-1FoKUJ{background: var(https://rawgit.com/Endlesszombiez/ThemeDiscord/master/Icons/KroosinIcon.svg) no-repeat center/cover}
 .theme-dark .guildSeparator-1X4GQ1:after{display:none}
 .theme-dark .friendsOnline-_wi_fM, .theme-light .friendsOnline-_wi_fM {color:#fff}
 
