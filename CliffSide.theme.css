@@ -41,10 +41,11 @@
 input{background: #f6f6f6}
 body,span:not(.spinner-item){-webkit-font-smoothing:optimizeLegibility !important;-webkit-backface-visibility:hidden;}
 body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: optimizeLegibility !important; font-smoothing: antialiased !important}
-.theme-dark ::selection {background: #000;color:rgba(50, 50, 50, .2)}
+.theme-dark ::selection {background: #fff;color:rgba(255, 255, 255, 0.4)}
 .theme-dark ::-webkit-input-placeholder {color: rgba(255, 255, 255, 0.8) !important}
 
 /* Chat Area */
+.messagesWrapper-3lZDfY .newMessagesBar-mujexs, .messagesWrapper-3lZDfY .jumpToPresentBar-9P20AM {background: #FFF;color:rgba(76, 175, 208, 0.81)}
 /* User Name */
 .headerCozyMeta-rdohGq .usernameWrapper-1S-G5O .username-_4ZSMR {font-weight: 100; background:rgba(0, 0, 0, 0); margin-bottom: 10px;} 
 .theme-dark .timestampCozy-2hLAPV {color: #fff}
