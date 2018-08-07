@@ -1,8 +1,8 @@
 //META{"name":"Cliffside Theme","description":"Major help from Satoru - Based on his starter theme","author":"Endlessz","version":"9.0","website":"http://github.com/Endlesszombiez/ThemeDiscord/blob/master/EndlesszCliffside.theme.css"}*//{}
 :root {
-    --background: url(https://i.imgur.com/otBCVCQ.jpg);  /*Wallpaper.*/
+    	--background: url(https://i.imgur.com/otBCVCQ.jpg);  /*Wallpaper.*/
 	--homeicon: url(https://i.imgur.com/7LEZiSD.png); /* Custom Home Icon. */
-    --light: rgba(0, 0, 0, 0.7); /* Overall brightness. 1= black, 0 = transparent */
+    	--light: rgba(0, 0, 0, 0.7); /* Overall brightness. 1= black, 0 = transparent */
 	--trans: rgba(0, 0, 0, 0);	
 	--font: Tahoma;	
 	--font-size: 15px ;
